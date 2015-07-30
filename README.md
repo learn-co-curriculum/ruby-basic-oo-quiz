@@ -1,4 +1,3 @@
-# Basic OO Quiz
 ## Objectives
 
 1. Test your understanding of basic principles of object oriented Ruby
@@ -6,7 +5,7 @@
 
 ???
 
-# Basic OO
+# Basic OO Quiz
 
 ?: Which of the following is the correct way to define a class called `Car`? 
 
@@ -38,5 +37,6 @@
 ( )`Car.create`
 (X)`Car.new`
 ( )`Car.initialize`
+
 
 ???
