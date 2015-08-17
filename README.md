@@ -11,7 +11,7 @@
 
 ( )`def Car`/`end` (X)`class Car`/`end` ( )`create Car`/`end`
 
-?: An instance variable: 
+?: What is an instance variable? 
 
 (X)A variable that describes an attribute of an instance of a class and is available to all instance methods of a class.
 ( )A variable that describes an attribute of an instance of a class and is available to both instance and class methods within a class. 
@@ -20,6 +20,7 @@
 
 ( )`@@color`
 (X)`@color`
+( )`color`
 
 ?: Which of the following method definitions defines a class method?
 
